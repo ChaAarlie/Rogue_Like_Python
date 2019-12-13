@@ -11,7 +11,7 @@ votre but est d'en atteindre le sommet en parcourant les différents étages.
 Changement de STAGE tous les 5 étages, avec boss et mini-boos (étages x0 et x5)
 A chaque changement de stage, il y aura des nouveaux ennemies, stuff, marchands, etc, 
 
-Pour test/debug: décommenter lines 26-27 du Main, donne au player tout les items et max stats
+Pour test/debug: décommenter lines 26-27 du Main, donne au player tout les items et max stats.
 Il faut executer le Main.py
 
 
