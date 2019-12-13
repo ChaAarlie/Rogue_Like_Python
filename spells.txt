@@ -1,0 +1,5 @@
+FORCE PUSH;..throws the target across the room;deals damage and slows the enemy;30
+FIRE BLAST;..a burst of fire comes at of you in a flashy explosion;keeps dealing damage over time;80
+MONEY LIFE;..fills the targets pockets with dollar bills;the monster drop twice the money and is slowed down;50
+MAGIC POISON;..cuts the target in two pieces with your magical powers;the targets life is halved but it gains a big damage boost for its next attack;140
+MAGIC ROULETTE;..this is your ultimate spell;it kills you 1/6 times, 2/6:kills the target, 2/6:deals damage, 1/6:self damage, 1/6:kys;200

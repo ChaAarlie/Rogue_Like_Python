@@ -1,0 +1,19 @@
+Weapon;POINTY BONE;..you could probably pierce someone with it;5;3
+Weapon;WOODEN STICK;..you found it on the ground;0;6
+Weapon;TRAINING SWORD;..a sword used for practice;50;10
+Weapon;BIG OOF;..once belonged to the king of the horses, now makes for a perfect love;75;100
+Weapon;HIS RIFLE;..there are many like it but this one is his;140;300
+Armor;STRAW COSTUME;..100% natural;10;5
+Armor;APPRENTICE COSTUME;..doesn't cover much;20;10
+Armor;CLOWN COSTUME;.. this large clown costume offers a pretty good protection. It even comes with a red nose ;100;20
+Armor;NEO COSTUME;..you're slowly beginning to believe in yourself;4000;50
+Armor;PUMPKIN KING COSTUME;..it's just a pumpkin on your head;150;40
+Jewel;BEGINERS LUCK;..a lucky charm for new adventurers;0;boost a random stat each turn
+Jewel;CURSED TALISMAN;..you feel dizzy by just looking at it;0;greatly boost your HP but makes you really slow
+Consumable;WATER;..it's just water;5;10% MAX HP
+Consumable;MAGIC JUICE;..you're not sure if you should drink it;50;20% MAX HP,SPD MAX
+Consumable;RABID DOG MEAT;..it's not good for you;0;HP30
+Consumable;MONSTER MEAT;..meat taken from the body of a fallen enemy;0;DMG5
+Consumable;LIQUID OF THE UNDEAD;..you're not sure where it comes from, but you've never smelt something so foul in your life;200;JESUS
+Consumable;RED POTION;..this is some gourmet s***;100;HP200
+Consumable;FLASK OF THE IMMORTAL;..it's a cheat;100000;YES

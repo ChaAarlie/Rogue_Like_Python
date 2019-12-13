@@ -1,0 +1,3 @@
+SMUG PONEY;..he's the king of these parts;20;240;1;60;todo;BIG OOF,50;100
+JACK THE PUMPKIN KING;..he's a very special guy;40;400;1;100;todo;PUMPKIN KING COSTUME,50;250
+SERGENT MAJOR CPT LEE;..he's looking at you with dead eyes;100;500;1;150;todo;HIS RIFLE,40;500
